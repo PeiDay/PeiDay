@@ -1,9 +1,11 @@
+![Github.png](https://github.com/PeiDay/PeiDay/blob/main/Images/Github.png)
+
 ### 👋  Hello, there!! 
 
 
 **Business Intelligence Analyst** who enjoys using Python, SQL, HTML, JavaScripts and Tableau to visualize data.
 
-#### 👀 Interested in:
+#### Interested in 👀:
 - cooking :ramen:
 - gardening :potted_plant:
 - lego :bricks:

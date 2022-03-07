@@ -3,7 +3,7 @@
 ### 👋  Hello, there!! 
 
 
-**Business Intelligence Analyst** who enjoys using Python, SQL, HTML, JavaScripts and Tableau to visualize data.
+**Business Intelligence Developer** who enjoys using Python, SQL, HTML, JavaScripts and Tableau to visualize data.
 
 #### Interested in 👀:
 - cooking :ramen:
